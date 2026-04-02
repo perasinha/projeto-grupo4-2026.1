@@ -1,0 +1,16 @@
+O sistema deve permitir o cadastro de usuários com login e senha.
+O usuário deve conseguir fazer login e logout de forma segura.
+O sistema deve permitir avaliar a aula o professor com notas e comentários.
+O usuário deve poder visualizar avaliações feitas por outros usuários.
+O sistema deve permitir editar ou excluir avaliações próprias.
+Deve haver recuperação de senha via e-mail.
+O sistema deve registrar histórico básico de atividades do usuário.
+
+Requisitos Não Funcionais
+O sistema deve garantir a segurança dos dados (criptografia de senhas).
+O tempo de resposta deve ser inferior a 3 segundos.
+O sistema deve estar disponível 24/7 com alta confiabilidade.
+A interface deve ser simples, intuitiva e responsiva.
+O sistema deve suportar múltiplos usuários simultaneamente.
+Os dados dos usuários devem ser protegidos conforme boas práticas de privacidade.
+O sistema deve ser compatível com navegadores modernos (Chrome, Safari, etc.).
