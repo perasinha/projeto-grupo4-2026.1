@@ -1,0 +1,89 @@
+Teste de fluxo de telas – V1 (Loveable)
+1. Objetivo
+
+O objetivo deste teste foi validar o fluxo principal da V1 da plataforma, que inclui:
+
+Cadastro e login
+Inscrição em disciplinas
+Avaliação de disciplinas
+Escrita de comentários
+
+O teste foi realizado com 3 usuários previamente entrevistados para verificar a usabilidade e identificar possíveis problemas.
+
+2. Participantes
+Letícia (Administração – 4º período)
+Tomich (Engenharia Civil – 6º período)
+Murilo (Direito – 7º período)
+
+3. Tarefas realizadas
+
+Os usuários foram convidados a realizar as seguintes ações:
+
+Criar uma conta / fazer login
+Se inscrever em uma disciplina
+Avaliar uma disciplina
+Escrever um comentário
+
+4. Resultados e feedbacks
+Letícia
+
+Comportamento:
+
+Conseguiu criar conta sem dificuldade
+Teve dúvida ao escolher disciplina
+Hesitou antes de avaliar (não sabia o que esperar)
+
+Dificuldades:
+
+Falta de descrição das disciplinas
+Não conhecia os professores
+Insegurança ao dar nota
+
+Feedback:
+
+“Seria bom ter mais informações sobre a matéria antes de escolher”
+“Não sei se minha avaliação faz sentido sem conhecer direito o professor”
+
+Insight:
+- Usuários iniciantes precisam de mais contexto antes de agir
+
+Tomich
+
+Comportamento:
+
+Navegou rapidamente
+Testou várias opções antes de escolher
+Usou a avaliação com mais confiança
+
+Dificuldades:
+
+Falta de filtros (horário, dificuldade, professor)
+Interface pouco clara em alguns momentos
+
+Feedback:
+
+“Queria poder filtrar melhor as disciplinas”
+“Dá pra melhorar a organização das informações”
+
+Insight:
+- Usuários mais experientes querem eficiência e controle
+
+Murilo
+
+Comportamento:
+
+Completou todas as tarefas
+Preferiu confiar em experiências próprias
+
+Dificuldades:
+
+Pouca confiança nas avaliações
+Falta de comentários detalhados
+
+Feedback:
+
+“Prefiro opinião de colegas que eu conheço”
+“Se tivesse mais comentários, ajudaria mais”
+
+Insight:
+- Credibilidade das avaliações é essencial
