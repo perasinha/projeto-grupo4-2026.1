@@ -1,1 +1,15 @@
 https://lovable.dev/projects/037b19da-7969-426a-8916-cc121ad1b63c?magic_link=mc_dca3cbde-1f86-4e8f-a8d7-1aef22e87f3d
+
+Mudanças:
+1- Não permitir que o usuário se matricule em duas matérias no mesmo horário, mostrando um aviso de conflito de horário.
+
+2- Criar uma página apenas para as disciplinas. Permite que o usuário tenha um local para busacar o nome ou código da matéria,
+filtrar usando o departamento podendo ser olhando um por um ou digitando para diminuir as opções.
+
+3- Acesso a uma página com grades salvas com data, podendo favoritar uma grade ou excluir (com dificuldade e pouco intuitivo). 
+Ele também tem acesso a um filtro que mostra somente as grades marcadas como favorita. (O acesso é pelo perfil)
+
+4- Um usuário pode avaliar ou denunciar uma avaliação.
+
+5- Ao colocar o cursor em cima de uma disciplina na grade, ela te da as informações da própria junto a algumas avaliações 
+(teste feito com uma), podento utilizar "ver mais" para ir para a pagina de avaliações.
